@@ -7,7 +7,7 @@ Among the three types, cutaneous leishmaniasis is the most common form; it cause
 
 ## Workflow
 ```
-**Activity (Tools used)**
+                                              *Activity (Tools used)*
 Programmatically downloaded the datasets (Kingfisher v0.4.1)
    ↓
 Prepared the Study design file (bash) & Renamed the fastq files programmatically (bash)
@@ -38,5 +38,38 @@ Differential Transcript Usage Analyses
 ------------------------------------------------------------------------------------------------------
  ↓
 Gene Co-expression Analysis [Unsupervised clustering]
+```
+
+## Analyses
+### Principal Component Analysis: Reproducing Figure 1A
+<img width="906" height="897" alt="PCA_1A" src="https://github.com/user-attachments/assets/ceda4aed-4f26-490f-8cbe-2d2c516c44e8" />
+
+
+### Volcano plot for DEGs: Reproducing Figure 1B
+<img width="1196" height="752" alt="Volcano_plot_1B" src="https://github.com/user-attachments/assets/32a4777b-8ee4-412a-bbeb-8dbc91f5fb35" />  
+
+
+
+
+
+### Enrichment plot for GSEA: Reproducing Figure 1C
+<img width="1548" height="1023" alt="Enrichment_plot002_1C" src="https://github.com/user-attachments/assets/2d545519-fbc3-4658-8bee-49a8c2ce30c0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
