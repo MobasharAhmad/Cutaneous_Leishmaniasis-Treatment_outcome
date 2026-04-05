@@ -57,6 +57,9 @@ Gene Co-expression Analysis [Unsupervised clustering]
 
 
 
+### Box plots comparing expression of several genes in CL vs HS: Rreproducing Figure 2A
+<img width="1207" height="776" alt="Boxplots_Figure2A" src="https://github.com/user-attachments/assets/4c994f66-0f36-4dc7-adcb-fe3040d5e52a" />
+
 
 
 
