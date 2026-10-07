@@ -3,6 +3,7 @@ Among the three types, cutaneous leishmaniasis is the most common form; it cause
 
 
 > I aimed to **reanalyze** the samples (7 healthy and 21 diseased) completely from raw fastq to develop own curated Bulk RNAseq Analysis workflow, reproduce the plots (are the same findings observed?) and explore new biological insights by incorporating complementary analyses.
+> The codes used here were adapted from [DIY transcriptomics](https://diytranscriptomics.com/)
 
 
 ## Workflow
@@ -38,6 +39,7 @@ Differential Transcript Usage Analyses
 ------------------------------------------------------------------------------------------------------
  ↓
 Gene Co-expression Analysis [Unsupervised clustering]
+
 ```
 
 ## Analyses
